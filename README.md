@@ -12,6 +12,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
