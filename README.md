@@ -7,6 +7,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,12 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 <!---LeetCode Topics End-->
