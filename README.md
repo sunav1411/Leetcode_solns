@@ -8,6 +8,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
