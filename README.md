@@ -47,6 +47,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunav1411/Leetcode_solns/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
