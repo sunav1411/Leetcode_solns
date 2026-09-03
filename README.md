@@ -6,6 +6,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/sunav1411/Leetcode_solns/tree/main/0326-power-of-three/) | Easy |
+| [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
@@ -13,6 +14,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -40,6 +42,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
+| [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
