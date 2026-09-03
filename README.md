@@ -5,6 +5,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/sunav1411/Leetcode_solns/tree/main/0326-power-of-three/) | Easy |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
@@ -66,4 +67,8 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/sunav1411/Leetcode_solns/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
