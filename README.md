@@ -53,6 +53,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +99,5 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
