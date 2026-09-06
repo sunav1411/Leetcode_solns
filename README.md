@@ -48,6 +48,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -90,6 +91,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
@@ -123,6 +125,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
@@ -131,6 +134,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
@@ -139,6 +143,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
