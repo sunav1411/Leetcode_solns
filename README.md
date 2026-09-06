@@ -39,6 +39,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Simulation
@@ -112,6 +113,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -119,6 +121,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -129,6 +132,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -138,6 +142,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -155,4 +160,8 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sunav1411/Leetcode_solns/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
