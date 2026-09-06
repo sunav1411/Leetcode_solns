@@ -38,6 +38,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 ## Simulation
@@ -61,6 +62,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 ## Counting
