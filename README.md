@@ -15,6 +15,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [3870-count-commas-in-range](https://github.com/sunav1411/Leetcode_solns/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
