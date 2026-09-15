@@ -28,6 +28,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +196,12 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0836-rectangle-overlap/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
