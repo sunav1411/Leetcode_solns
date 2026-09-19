@@ -68,6 +68,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0835-image-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0835-image-overlap/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/sunav1411/Leetcode_solns/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -82,12 +83,14 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunav1411/Leetcode_solns/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -102,6 +105,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting Sort
@@ -123,6 +127,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
