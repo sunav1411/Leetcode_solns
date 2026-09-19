@@ -26,6 +26,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sunav1411/Leetcode_solns/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
+| [0764-largest-plus-sign](https://github.com/sunav1411/Leetcode_solns/tree/main/0764-largest-plus-sign/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
@@ -69,6 +70,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0764-largest-plus-sign](https://github.com/sunav1411/Leetcode_solns/tree/main/0764-largest-plus-sign/) | Medium |
 | [0835-image-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0835-image-overlap/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/sunav1411/Leetcode_solns/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
