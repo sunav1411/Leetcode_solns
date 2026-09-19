@@ -145,6 +145,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunav1411/Leetcode_solns/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -165,6 +166,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunav1411/Leetcode_solns/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunav1411/Leetcode_solns/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -183,6 +186,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
