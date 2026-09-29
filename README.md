@@ -34,6 +34,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunav1411/Leetcode_solns/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -86,6 +87,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunav1411/Leetcode_solns/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -235,6 +237,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0835-image-overlap/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +265,5 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
