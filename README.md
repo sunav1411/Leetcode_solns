@@ -26,6 +26,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sunav1411/Leetcode_solns/tree/main/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
@@ -56,6 +57,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/sunav1411/Leetcode_solns/tree/main/0115-distinct-subsequences/) | Hard |
 | [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -160,6 +162,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1006-clumsy-factorial](https://github.com/sunav1411/Leetcode_solns/tree/main/1006-clumsy-factorial/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunav1411/Leetcode_solns/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -272,6 +275,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sunav1411/Leetcode_solns/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
