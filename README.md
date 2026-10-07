@@ -62,6 +62,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0115-distinct-subsequences](https://github.com/sunav1411/Leetcode_solns/tree/main/0115-distinct-subsequences/) | Hard |
 | [0290-word-pattern](https://github.com/sunav1411/Leetcode_solns/tree/main/0290-word-pattern/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sunav1411/Leetcode_solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0856-score-of-parentheses/) | Medium |
@@ -126,6 +127,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Bit Manipulation
@@ -196,6 +198,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0655-print-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
