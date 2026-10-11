@@ -29,6 +29,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0032-longest-valid-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/sunav1411/Leetcode_solns/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sunav1411/Leetcode_solns/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/sunav1411/Leetcode_solns/tree/main/0118-pascals-triangle/) | Easy |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sunav1411/Leetcode_solns/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0764-largest-plus-sign](https://github.com/sunav1411/Leetcode_solns/tree/main/0764-largest-plus-sign/) | Medium |
@@ -90,6 +91,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0078-subsets](https://github.com/sunav1411/Leetcode_solns/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/sunav1411/Leetcode_solns/tree/main/0118-pascals-triangle/) | Easy |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
