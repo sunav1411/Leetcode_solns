@@ -107,6 +107,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sunav1411/Leetcode_solns/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunav1411/Leetcode_solns/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -163,6 +164,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sunav1411/Leetcode_solns/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -265,6 +267,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sunav1411/Leetcode_solns/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
