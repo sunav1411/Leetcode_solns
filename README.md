@@ -24,6 +24,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3870-count-commas-in-range](https://github.com/sunav1411/Leetcode_solns/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/sunav1411/Leetcode_solns/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3525-find-x-value-of-array-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/sunav1411/Leetcode_solns/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -168,6 +170,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/sunav1411/Leetcode_solns/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunav1411/Leetcode_solns/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunav1411/Leetcode_solns/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/sunav1411/Leetcode_solns/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
