@@ -125,6 +125,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3886-sum-of-sortable-integers](https://github.com/sunav1411/Leetcode_solns/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sunav1411/Leetcode_solns/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
