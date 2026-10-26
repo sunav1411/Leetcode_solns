@@ -122,6 +122,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3483-unique-3-digit-even-numbers](https://github.com/sunav1411/Leetcode_solns/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sunav1411/Leetcode_solns/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -231,6 +232,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunav1411/Leetcode_solns/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +305,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +366,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
