@@ -9,6 +9,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0326-power-of-three](https://github.com/sunav1411/Leetcode_solns/tree/main/0326-power-of-three/) | Easy |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunav1411/Leetcode_solns/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0836-rectangle-overlap/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sunav1411/Leetcode_solns/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -108,6 +109,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
 | [0396-rotate-function](https://github.com/sunav1411/Leetcode_solns/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunav1411/Leetcode_solns/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/sunav1411/Leetcode_solns/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0764-largest-plus-sign](https://github.com/sunav1411/Leetcode_solns/tree/main/0764-largest-plus-sign/) | Medium |
@@ -183,6 +185,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/sunav1411/Leetcode_solns/tree/main/0274-h-index/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
