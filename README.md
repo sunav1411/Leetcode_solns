@@ -117,6 +117,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0989-add-to-array-form-of-integer](https://github.com/sunav1411/Leetcode_solns/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -166,6 +167,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunav1411/Leetcode_solns/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -266,6 +269,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0662-maximum-width-of-binary-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0672-bulb-switcher-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0672-bulb-switcher-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -328,6 +332,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/sunav1411/Leetcode_solns/tree/main/0835-image-overlap/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sunav1411/Leetcode_solns/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -395,6 +400,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
