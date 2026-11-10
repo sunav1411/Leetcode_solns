@@ -51,6 +51,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sunav1411/Leetcode_solns/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sunav1411/Leetcode_solns/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sunav1411/Leetcode_solns/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sunav1411/Leetcode_solns/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/sunav1411/Leetcode_solns/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sunav1411/Leetcode_solns/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
