@@ -132,6 +132,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunav1411/Leetcode_solns/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sunav1411/Leetcode_solns/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sunav1411/Leetcode_solns/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunav1411/Leetcode_solns/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/sunav1411/Leetcode_solns/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/sunav1411/Leetcode_solns/tree/main/3524-find-x-value-of-array-i/) | Medium |
