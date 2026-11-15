@@ -18,6 +18,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/sunav1411/Leetcode_solns/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sunav1411/Leetcode_solns/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunav1411/Leetcode_solns/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/sunav1411/Leetcode_solns/tree/main/2409-count-days-spent-together/) | Easy |
@@ -45,6 +46,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1025-divisor-game](https://github.com/sunav1411/Leetcode_solns/tree/main/1025-divisor-game/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunav1411/Leetcode_solns/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunav1411/Leetcode_solns/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -120,6 +122,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -251,6 +254,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunav1411/Leetcode_solns/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/sunav1411/Leetcode_solns/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
