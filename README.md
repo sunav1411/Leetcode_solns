@@ -92,6 +92,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunav1411/Leetcode_solns/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/sunav1411/Leetcode_solns/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -103,6 +104,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1006-clumsy-factorial](https://github.com/sunav1411/Leetcode_solns/tree/main/1006-clumsy-factorial/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
