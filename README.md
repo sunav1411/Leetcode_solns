@@ -107,6 +107,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | ------- | ------- |
 | [1006-clumsy-factorial](https://github.com/sunav1411/Leetcode_solns/tree/main/1006-clumsy-factorial/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/sunav1411/Leetcode_solns/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sunav1411/Leetcode_solns/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
@@ -130,6 +131,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sunav1411/Leetcode_solns/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sunav1411/Leetcode_solns/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sunav1411/Leetcode_solns/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/sunav1411/Leetcode_solns/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -414,6 +416,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sunav1411/Leetcode_solns/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/sunav1411/Leetcode_solns/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sunav1411/Leetcode_solns/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -457,4 +460,8 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sunav1411/Leetcode_solns/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sunav1411/Leetcode_solns/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
