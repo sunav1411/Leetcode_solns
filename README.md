@@ -127,6 +127,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [1128-number-of-equivalent-domino-pairs](https://github.com/sunav1411/Leetcode_solns/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sunav1411/Leetcode_solns/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/sunav1411/Leetcode_solns/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sunav1411/Leetcode_solns/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sunav1411/Leetcode_solns/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -207,6 +208,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sunav1411/Leetcode_solns/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/sunav1411/Leetcode_solns/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sunav1411/Leetcode_solns/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunav1411/Leetcode_solns/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sunav1411/Leetcode_solns/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -324,6 +326,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/sunav1411/Leetcode_solns/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sunav1411/Leetcode_solns/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunav1411/Leetcode_solns/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunav1411/Leetcode_solns/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sunav1411/Leetcode_solns/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -364,6 +367,7 @@ here i add solns of leetcode ques i do so that i can make a record how many ques
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sunav1411/Leetcode_solns/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunav1411/Leetcode_solns/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sunav1411/Leetcode_solns/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Greedy
